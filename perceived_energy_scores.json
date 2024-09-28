@@ -1,0 +1,268 @@
+[
+  {
+    "user": "A",
+    "date": "2022-04-01",
+    "mood_score": null,
+    "activity": [
+      {
+        "activity": "Walk",
+        "steps": 5768,
+        "distance": 0.0,
+        "duration": 86.2,
+        "calories": 508
+      }
+    ],
+    "sleep": {
+      "sleep_score": 90,
+      "hours_of_sleep": 7.366666666666666,
+      "hours_in_bed": "8.20"
+    }
+  },
+  {
+    "user": "A",
+    "date": "2022-04-02",
+    "mood_score": null,
+    "activity": [
+      {
+        "activity": "Walk",
+        "steps": 4812,
+        "distance": 0.0,
+        "duration": 58.88333333333333,
+        "calories": 343
+      }
+    ],
+    "sleep": {
+      "sleep_score": 89,
+      "hours_of_sleep": 8.666666666666666,
+      "hours_in_bed": "9.60"
+    }
+  },
+  {
+    "user": "A",
+    "date": "2022-04-03",
+    "mood_score": null,
+    "activity": [
+      {
+        "activity": "Walk",
+        "steps": 1640,
+        "distance": 0.0,
+        "duration": 17.933333333333334,
+        "calories": 141
+      }
+    ],
+    "sleep": {
+      "sleep_score": 81,
+      "hours_of_sleep": 8.866666666666667,
+      "hours_in_bed": "10.42"
+    }
+  },
+  {
+    "user": "A",
+    "date": "2022-04-04",
+    "mood_score": null,
+    "activity": [
+      {
+        "activity": "Fitstar: Personal Trainer",
+        "steps": 117,
+        "distance": 0.0,
+        "duration": 6.166666666666667,
+        "calories": 45
+      }
+    ],
+    "sleep": {
+      "sleep_score": 83,
+      "hours_of_sleep": 6.833333333333333,
+      "hours_in_bed": "7.62"
+    }
+  },
+  {
+    "user": "A",
+    "date": "2022-04-05",
+    "mood_score": null,
+    "activity": [
+      {
+        "activity": "Walk",
+        "steps": 2369,
+        "distance": 0.0,
+        "duration": 23.883333333333333,
+        "calories": 262
+      }
+    ],
+    "sleep": {
+      "sleep_score": 84,
+      "hours_of_sleep": 6.95,
+      "hours_in_bed": "7.97"
+    }
+  },
+  {
+    "user": "A",
+    "date": "2022-04-06",
+    "mood_score": null,
+    "activity": [
+      {
+        "activity": "Walk",
+        "steps": 1393,
+        "distance": 0.0,
+        "duration": 15.366666666666667,
+        "calories": 115
+      }
+    ],
+    "sleep": {
+      "sleep_score": 83,
+      "hours_of_sleep": 7.45,
+      "hours_in_bed": "8.87"
+    }
+  },
+  {
+    "user": "A",
+    "date": "2022-04-07",
+    "mood_score": null,
+    "activity": [
+      {
+        "activity": "Walk",
+        "steps": 1536,
+        "distance": 0.0,
+        "duration": 17.066666666666666,
+        "calories": 133
+      }
+    ],
+    "sleep": {
+      "sleep_score": 87,
+      "hours_of_sleep": 7.95,
+      "hours_in_bed": "8.83"
+    }
+  },
+  {
+    "user": "B",
+    "date": "2022-04-01",
+    "mood_score": null,
+    "activity": [
+      {
+        "activity": "Hike",
+        "steps": 6519,
+        "distance": 4.46707,
+        "duration": 90.76666666666667,
+        "calories": 730
+      }
+    ],
+    "sleep": {
+      "sleep_score": 83,
+      "hours_of_sleep": 7.45,
+      "hours_in_bed": "8.90"
+    }
+  },
+  {
+    "user": "B",
+    "date": "2022-04-02",
+    "mood_score": null,
+    "activity": [
+      {
+        "activity": "Walk",
+        "steps": 4147,
+        "distance": 0.0,
+        "duration": 46.1,
+        "calories": 357
+      }
+    ],
+    "sleep": {
+      "sleep_score": 87,
+      "hours_of_sleep": 8.2,
+      "hours_in_bed": "9.15"
+    }
+  },
+  {
+    "user": "B",
+    "date": "2022-04-03",
+    "mood_score": null,
+    "activity": [
+      {
+        "activity": "Run",
+        "steps": 5760,
+        "distance": 6.465203,
+        "duration": 36.1,
+        "calories": 460
+      }
+    ],
+    "sleep": {
+      "sleep_score": 83,
+      "hours_of_sleep": 6.95,
+      "hours_in_bed": "7.77"
+    }
+  },
+  {
+    "user": "B",
+    "date": "2022-04-04",
+    "mood_score": null,
+    "activity": [
+      {
+        "activity": "Walk",
+        "steps": 2065,
+        "distance": 0.0,
+        "duration": 19.633333333333333,
+        "calories": 171
+      }
+    ],
+    "sleep": {
+      "sleep_score": 88,
+      "hours_of_sleep": 7.65,
+      "hours_in_bed": "8.45"
+    }
+  },
+  {
+    "user": "B",
+    "date": "2022-04-05",
+    "mood_score": null,
+    "activity": [
+      {
+        "activity": "Walk",
+        "steps": 1573,
+        "distance": 0.0,
+        "duration": 17.933333333333334,
+        "calories": 134
+      }
+    ],
+    "sleep": {
+      "sleep_score": 86,
+      "hours_of_sleep": 8.0,
+      "hours_in_bed": "9.30"
+    }
+  },
+  {
+    "user": "B",
+    "date": "2022-04-06",
+    "mood_score": null,
+    "activity": [
+      {
+        "activity": "Walk",
+        "steps": 1779,
+        "distance": 0.0,
+        "duration": 25.6,
+        "calories": 166
+      }
+    ],
+    "sleep": {
+      "sleep_score": 82,
+      "hours_of_sleep": 7.8,
+      "hours_in_bed": "9.18"
+    }
+  },
+  {
+    "user": "B",
+    "date": "2022-04-07",
+    "mood_score": null,
+    "activity": [
+      {
+        "activity": "Run",
+        "steps": 5937,
+        "distance": 6.47782,
+        "duration": 36.766666666666666,
+        "calories": 472
+      }
+    ],
+    "sleep": {
+      "sleep_score": 83,
+      "hours_of_sleep": 7.316666666666666,
+      "hours_in_bed": "8.38"
+    }
+  }
+]
